@@ -43,7 +43,7 @@ body {
   /* ============================================================= */
   /* Borders
   ================================================================ */
-  --cd-border-color:                     rgba(0, 0, 0, 0.125);
+  --cd-border-color:                     rgba(255, 196, 196, 0.13);
   --cd-border-width:                     1px;
   --cd-border-style:                     solid;
   --cd-border-radius:                    1rem;
